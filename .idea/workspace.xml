@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Competitive_Programming" targetName="testrunner" />
       <config projectName="Competitive_Programming" targetName="output" />
+      <config projectName="Competitive_Programming" targetName="testrunner" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -12,9 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8cef681-f802-481f-a040-ae90de04cf92" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="d8cef681-f802-481f-a040-ae90de04cf92" name="Default Changelist" comment="Tested With a CodeForces Problem" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +22,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="name.admitriev.jhelper.configuration.TaskConfigurationExecutionTargetCMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -66,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.output">
+  <component name="RunManager" selected="Task.D. Power Products">
     <configuration name="output" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="output" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="output">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -80,6 +78,7 @@
     <list>
       <item itemvalue="CMake Application.output" />
       <item itemvalue="CMake Application.testrunner" />
+      <item itemvalue="Task.D. Power Products" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -96,7 +95,7 @@
       <workItem from="1572171767614" duration="1957000" />
       <workItem from="1572174821465" duration="951000" />
       <workItem from="1572177811689" duration="541000" />
-      <workItem from="1572178507614" duration="367000" />
+      <workItem from="1572178507614" duration="1994000" />
     </task>
     <servers />
   </component>
@@ -115,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tested With a CodeForces Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tested With a CodeForces Problem" />
   </component>
 </project>

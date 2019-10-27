@@ -1,3 +1,2 @@
-output/
-testrunner/
 cmake-build-debug/
+!.*
