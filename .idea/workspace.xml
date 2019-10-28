@@ -12,7 +12,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8cef681-f802-481f-a040-ae90de04cf92" name="Default Changelist" comment="Tested With a CodeForces Problem" />
+    <list default="true" id="d8cef681-f802-481f-a040-ae90de04cf92" name="Default Changelist" comment="Today's solved problems">
+      <change afterPath="$PROJECT_DIR$/tasks/ALuckyDivision.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/output/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task.template" beforeDir="false" afterPath="$PROJECT_DIR$/task.template" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testrunner/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/testrunner/main.cpp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +30,11 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="name.admitriev.jhelper.configuration.TaskConfigurationExecutionTargetCMakeBuildProfile:Debug" />
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Himanshu Bhadani &lt;himanshubhadani012@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -64,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Task.D. Power Products">
+  <component name="RunManager" selected="Task.A. Lucky Division">
     <configuration name="output" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="output" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="output">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -79,6 +90,17 @@
       <item itemvalue="CMake Application.output" />
       <item itemvalue="CMake Application.testrunner" />
       <item itemvalue="Task.D. Power Products" />
+      <item itemvalue="Task.B. Psychos in a Line" />
+      <item itemvalue="Task.C. Little Girl and Maximum Sum" />
+      <item itemvalue="Task.D. Renting Bikes" />
+      <item itemvalue="Task.A. Treasure" />
+      <item itemvalue="Task.A. Word Capitalization" />
+      <item itemvalue="Task.A. Bit++" />
+      <item itemvalue="Task.A. Even Odds" />
+      <item itemvalue="Task.A. Dubstep" />
+      <item itemvalue="Task.A. Football" />
+      <item itemvalue="Task.A. Lucky Division" />
+      <item itemvalue="Task.A. Dragons" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -96,6 +118,9 @@
       <workItem from="1572174821465" duration="951000" />
       <workItem from="1572177811689" duration="541000" />
       <workItem from="1572178507614" duration="1994000" />
+      <workItem from="1572203015707" duration="139000" />
+      <workItem from="1572207260737" duration="7185000" />
+      <workItem from="1572270453715" duration="7632000" />
     </task>
     <servers />
   </component>

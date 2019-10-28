@@ -1,4 +1,4 @@
-#include "/home/bhadani/CLionProjects/Competitive Programming/tasks/DPowerProducts.cpp"
+#include "/home/bhadani/CLionProjects/Competitive Programming/tasks/ALuckyDivision.cpp"
 
 #include <sstream>
 #include <cctype>
@@ -25,7 +25,7 @@ bool check(std::string expected, std::string actual) {
 
 int main() {
 	std::vector<jhelper::Test> tests = {
-		{"6 3\n1 3 9 8 24 1\n", "5\n", true, true},
+		{"47\n", "YES\n", true, true},{"16\n", "YES\n", true, true},{"78\n", "NO\n", true, true},
 	};
 	bool allOK = true;
 	int testID = 0;
@@ -44,7 +44,7 @@ int main() {
 			std::stringstream in(test.input);
 			std::ostringstream out;
 			std::clock_t start = std::clock();
-			DPowerProducts solver;
+			ALuckyDivision solver;
 			solver.solve(in, out);
 			std::clock_t finish = std::clock();
 			double currentTime = double(finish - start) / CLOCKS_PER_SEC;

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="A. Word Capitalization" type="name.admitriev.jhelper.configuration.TaskConfigurationType" factoryName="Task" className="AWordCapitalization" cppPath="tasks/AWordCapitalization.cpp" inputType="STANDARD" outputType="STANDARD" testType="SINGLE">
+    <tests>
+      <test input="ApPLe&#10;" output="ApPLe&#10;" active="true" />
+      <test input="konjac&#10;" output="Konjac&#10;" active="true" />
+    </tests>
+    <method v="2" />
+  </configuration>
+</component>
