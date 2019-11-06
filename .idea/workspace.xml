@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Competitive_Programming" targetName="output" />
       <config projectName="Competitive_Programming" targetName="testrunner" />
+      <config projectName="Competitive_Programming" targetName="output" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -12,11 +12,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8cef681-f802-481f-a040-ae90de04cf92" name="Default Changelist" comment="Today's solved problems">
-      <change afterPath="$PROJECT_DIR$/tasks/ALuckyDivision.cpp" afterDir="false" />
+    <list default="true" id="d8cef681-f802-481f-a040-ae90de04cf92" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/output/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task.template" beforeDir="false" afterPath="$PROJECT_DIR$/task.template" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testrunner/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/testrunner/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Task.A. Lucky Division">
+  <component name="RunManager" selected="Task.D. 0-1 MST">
     <configuration name="output" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Programming" TARGET_NAME="output" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Programming" RUN_TARGET_NAME="output">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -101,6 +99,16 @@
       <item itemvalue="Task.A. Football" />
       <item itemvalue="Task.A. Lucky Division" />
       <item itemvalue="Task.A. Dragons" />
+      <item itemvalue="Task.A. Payment Without Change" />
+      <item itemvalue="Task.B. Minimize the Permutation" />
+      <item itemvalue="Task.D. Binary String Minimizing" />
+      <item itemvalue="Task.C. Platforms Jumping" />
+      <item itemvalue="Task.A. Maximum Square" />
+      <item itemvalue="Task.B1. Character Swap (Easy Version)" />
+      <item itemvalue="Task.B2. Character Swap (Hard Version)" />
+      <item itemvalue="Task.C. Tile Painting" />
+      <item itemvalue="Task.D. 0-1 MST" />
+      <item itemvalue="Task.E. Sum Balance" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -120,8 +128,19 @@
       <workItem from="1572178507614" duration="1994000" />
       <workItem from="1572203015707" duration="139000" />
       <workItem from="1572207260737" duration="7185000" />
-      <workItem from="1572270453715" duration="7632000" />
+      <workItem from="1572270453715" duration="7877000" />
+      <workItem from="1572873392814" duration="6706000" />
+      <workItem from="1573052810756" duration="13890000" />
+      <workItem from="1573068044451" duration="975000" />
     </task>
+    <task id="LOCAL-00001" summary="Today's solved problems">
+      <created>1572286889870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572286889873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tested With a CodeForces Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tested With a CodeForces Problem" />
+    <MESSAGE value="Today's solved problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Today's solved problems" />
   </component>
 </project>
